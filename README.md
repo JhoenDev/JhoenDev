@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Pics/aug2023.jpg" alt="Jhoen Alban" width="100%" />
+  <img src="/Pics/aug2023.jpg" alt="Jhoen Alban" width="70%" />
 </p>
 
 <p align="center">
@@ -22,9 +22,8 @@
   <a href="https://t.me/jho_en">
      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-</p>
+</p
   
- ![](https://github-readme-stats.vercel.app/api?username=JhoenDev&show_icons=true&theme=dark)  ![](https://github-readme-streak-stats.herokuapp.com/?user=JhoenDev&theme=dark&hide_border=false&cache_seconds=86400)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoenDev&layout=compact&theme=dark) 
 
 
 
