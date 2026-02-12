@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Pics/aug2023.jpg" alt="Jhoen Alban" width="70%" />
+  <img src="/Pics/aug2023.jpg" alt="Jhoen Alban" width="85%" />
 </p>
 
 <p align="center">
