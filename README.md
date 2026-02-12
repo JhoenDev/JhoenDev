@@ -23,24 +23,8 @@
      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-
----
-
-## 🛠 Tech Stack
-
-
-
----
-
-## 📈 GitHub Stats
-<p align="center">
   
  ![](https://github-readme-stats.vercel.app/api?username=JhoenDev&show_icons=true&theme=dark)  ![](https://github-readme-streak-stats.herokuapp.com/?user=JhoenDev&theme=dark&hide_border=false&cache_seconds=86400)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoenDev&layout=compact&theme=dark) 
 
-</p>
-
----
-
-## 🏅 Certifications
 
 
